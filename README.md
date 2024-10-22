@@ -29,6 +29,7 @@ Requirements:
 - If the Markdown file doesn’t exist: print in STDER `Missing <filename>` and exit 1
 - Otherwise, print nothing and exit 0
 
+```bash
 guillaume@vagrant:~/$ ./markdown2html.py
 Usage: ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ echo $?
@@ -42,8 +43,9 @@ guillaume@vagrant:~/$
 guillaume@vagrant:~/$ echo "Test" > README.md
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-frontend-for-fun
 File: markdown2html.py
 1. Headings
