@@ -45,7 +45,7 @@ guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$
 ```
 
-Repo:
+**Repo:**
 - GitHub repository: `alx-frontend-for-fun`
 - File: `markdown2html.py`
 
@@ -79,7 +79,7 @@ guillaume@vagrant:~/$ cat README.html
 guillaume@vagrant:~/$
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-frontend-for-fun`
 - File: markdown2html.py
@@ -114,7 +114,7 @@ guillaume@vagrant:~/$ cat README.html
 guillaume@vagrant:~/$
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-frontend-for-fun`
 - File: markdown2html.py
@@ -149,7 +149,7 @@ guillaume@vagrant:~/$ cat README.html
 guillaume@vagrant:~/$
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-frontend-for-fun`
 - File: markdown2html.py
@@ -203,7 +203,7 @@ with 2 lines
 guillaume@vagrant:~/$
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-frontend-for-fun`
 - File: markdown2html.py
@@ -249,7 +249,7 @@ with <em>2 lines</em>
 guillaume@vagrant:~/$
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-frontend-for-fun`
 - File: markdown2html.py
@@ -307,6 +307,6 @@ guillaume@vagrant:~/$
 
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
-Repo:
+**Repo:**
 - GitHub repository: `alx-frontend-for-fun`
 - File: `markdown2html.py`
