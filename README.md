@@ -25,9 +25,10 @@ Write a script `markdown2html.py` that takes an argument 2 strings:
 
 Requirements:
 
-- If the number of arguments is less than 2: print in STDERR Usage: ./markdown2html.py README.md README.html and exit 1
-- If the Markdown file doesn’t exist: print in STDER Missing <filename> and exit 1
+- If the number of arguments is less than 2: print in STDERR `Usage: ./markdown2html.py README.md README.html` and exit 1
+- If the Markdown file doesn’t exist: print in STDER `Missing <filename>` and exit 1
 - Otherwise, print nothing and exit 0
+
 guillaume@vagrant:~/$ ./markdown2html.py
 Usage: ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ echo $?
