@@ -15,7 +15,8 @@ All your modules should be documented: `python3 -c 'print(__import__("my_module"
 Your code should not be executed when imported (by using `if __name__ == "__main__":`)
 
 ## Tasks
-0. Start a script
+
+### 0. Start a script
 #advanced
 Write a script markdown2html.py that takes an argument 2 strings:
 
