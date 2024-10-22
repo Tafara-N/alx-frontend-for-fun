@@ -62,6 +62,8 @@ Markdown	HTML generated
 #### Heading level 4	<h4>Heading level 1</h4>
 ##### Heading level 5	<h5>Heading level 1</h5>
 ###### Heading level 6	<h6>Heading level 1</h6>
+
+```bash
 guillaume@vagrant:~/$ cat README.md
 # My title
 ## My title2
@@ -77,10 +79,11 @@ guillaume@vagrant:~/$ cat README.html
 <h4>My title4</h4>
 <h3>My title5</h3>
 guillaume@vagrant:~/$
+```
+
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
 **Repo:**
-
 - GitHub repository: `alx-frontend-for-fun`
 - File: markdown2html.py
 2. Unordered listing
