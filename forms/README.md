@@ -56,24 +56,25 @@ enable
 
 required
 
-Question #1
+### Question #1
+
 In this code:
 
+```html
 <input type="checkbox" name="online" id="online" />
-<label for="online">Online</label>
-Why for="online" in the <label> is important?
+<label for="online"> Online </label>
+```
+
+Why `for="online"` in the `<label>` is important?
 
 
-To display the label on the left of the checkbox
+- [ ] To display the label on the left of the checkbox
 
+- [ ] To indicate to the user that “Online” is a boolean
 
-To indicate to the user that “Online” is a boolean
+- [ ] To extend the “click zone” and toggle the `<input id="online">`
 
-
-To extend the “click zone” and toggle the <input id="online">
-
-
-To set a default value to the checkbox
+- [ ] To set a default value to the checkbox
 
 ### Question #2
 
