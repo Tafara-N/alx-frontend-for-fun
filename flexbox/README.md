@@ -38,7 +38,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 Download the images linked in the `CSS Advanced` project and place them into an images directory at the root of the project.
 
-HTML starter file
+[`HTML starter file`]()
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -532,7 +533,8 @@ article.html
 </html>
 
 
-Quiz questions
+## Quiz questions
+
 Question #0
 Which of these CSS attributes are part of the “Flex container”?
 
