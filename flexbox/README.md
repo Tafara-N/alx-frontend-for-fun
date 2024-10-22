@@ -96,7 +96,7 @@ Select all correct answers
 
 What’s the “flex” equivalent of:
 
-![Question 3](images/image_2.png)
+![Question 3](images/image_3.png)
 
 - [ ] flex-direction: column
 
@@ -106,7 +106,7 @@ What’s the “flex” equivalent of:
 
 What’s the “flex” equivalent of:
 
-![Question 4](images/image_3.png)
+![Question 4](images/image_4.png)
 
 - [ ] Container: `flex-direction: row` + `flex-wrap: wrap` / last item: `flex-grow: 0`
 
@@ -120,7 +120,7 @@ What’s the “flex” equivalent of:
 
 What’s the “flex” equivalent of:
 
-![Question 5](images/image_4.png)
+![Question 5](images/image_5.png)
 
 - [ ] Container: `flex-direction: row` + `flex-wrap: nowrap` + `justify-content: flex-end`
 
@@ -134,7 +134,7 @@ What’s the “flex” equivalent of:
 
 What’s the “flex” equivalent of:
 
-![Question 6](images/image_5.png)
+![Question 6](images/image_6.png)
 
 - [ ] Container: `flex-direction: column` + `justify-content: center`
 
