@@ -105,8 +105,8 @@ Improve `markdown2html.py` by parsing Unordered listing syntax for generating HT
 
 ```html
 <ul>
-    <li>Hello</li>
-    <li>Bye</li>
+    <li> Hello </li>
+    <li> Bye </li>
 </ul>
 ```
 
