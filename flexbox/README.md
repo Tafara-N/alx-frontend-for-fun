@@ -82,20 +82,15 @@ Which of these CSS attributes are part of the “Flex items”?
 
 Select all correct answers
 
+- [ ] order
 
-order
+- [ ] align-content
 
+- [ ] align-self
 
-align-content
+- [ ] flex-direction
 
-
-align-self
-
-
-flex-direction
-
-
-flex-shrink
+- [ ] flex-shrink
 
 ### Question #3
 
