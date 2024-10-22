@@ -120,8 +120,8 @@ guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
 <h1> My title </h1>
   <ul>
-    <li>Hello</li>
-    <li>Bye</li>
+    <li> Hello </li>
+    <li> Bye </li>
   </ul>
 guillaume@vagrant:~/$
 ```
