@@ -55,13 +55,14 @@ Improve `markdown2html.py` by parsing Headings Markdown syntax for generating HT
 
 **Syntax:** (you can assume it will be strictly this syntax)
 
-Markdown	HTML generated
-# Heading level 1	<h1>Heading level 1</h1>
-## Heading level 2	<h2>Heading level 1</h2>
-### Heading level 3	<h3>Heading level 1</h3>
-#### Heading level 4	<h4>Heading level 1</h4>
-##### Heading level 5	<h5>Heading level 1</h5>
-###### Heading level 6	<h6>Heading level 1</h6>
+**Markdown**             | **HTML generated**
+-------------------------|---------------------------
+`# Heading level 1`      | `<h1> Heading level 1 </h1>`
+`## Heading level 2`     | `<h2> Heading level 1 </h2>`
+`### Heading level 3`    | `<h3> Heading level 1 </h3>`
+`#### Heading level 4`   | `<h4> Heading level 1 </h4>`
+`##### Heading level 5`  | `<h5> Heading level 1 </h5>`
+`###### Heading level 6` | `<h6> Heading level 1 </h6>`
 
 ```bash
 guillaume@vagrant:~/$ cat README.md
@@ -73,11 +74,11 @@ guillaume@vagrant:~/$ cat README.md
 
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
-<h1>My title</h1>
-<h2>My title2</h2>
-<h1>My title3</h1>
-<h4>My title4</h4>
-<h3>My title5</h3>
+<h1> My title </h1>
+<h2> My title2 </h2>
+<h1> My title3 </h1>
+<h4> My title4 </h4>
+<h3> My title5 </h3>
 guillaume@vagrant:~/$
 ```
 
