@@ -132,22 +132,29 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 - GitHub repository: `alx-frontend-for-fun`
 - File: `markdown2html.py`
 
-3. Ordered listing
-#advanced
-Improve markdown2html.py by parsing Ordered listing syntax for generating HTML:
+### 3. Ordered listing
 
-Syntax: (you can assume it will be strictly this syntax)
+Improve `markdown2html.py` by parsing Ordered listing syntax for generating HTML:
 
-Markdown:
+**Syntax:** (you can assume it will be strictly this syntax)
 
+**Markdown:**
+
+```markdown
 * Hello
 * Bye
-HTML generated:
+```
 
+**HTML generated:**
+
+```html
 <ol>
     <li>Hello</li>
     <li>Bye</li>
 </ol>
+```
+
+```bash
 guillaume@vagrant:~/$ cat README.md
 # My title
 * Hello
@@ -155,18 +162,20 @@ guillaume@vagrant:~/$ cat README.md
 
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
-<h1>My title</h1>
-<ol>
-<li>Hello</li>
-<li>Bye</li>
-</ol>
+<h1> My title </h1>
+  <ol>
+    <li> Hello </li>
+    <li> Bye </li>
+  </ol>
 guillaume@vagrant:~/$
+```
+
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
 **Repo:**
-
 - GitHub repository: `alx-frontend-for-fun`
-- File: markdown2html.py
+- File: `markdown2html.py`
+
 4. Simple text
 #advanced
 Improve markdown2html.py by parsing paragraph syntax for generating HTML:
