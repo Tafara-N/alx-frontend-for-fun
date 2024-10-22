@@ -51,9 +51,9 @@ guillaume@vagrant:~/$
 
 ### 1. Headings
 
-Improve markdown2html.py by parsing Headings Markdown syntax for generating HTML:
+Improve `markdown2html.py` by parsing Headings Markdown syntax for generating HTML:
 
-Syntax: (you can assume it will be strictly this syntax)
+**Syntax:** (you can assume it will be strictly this syntax)
 
 Markdown	HTML generated
 # Heading level 1	<h1>Heading level 1</h1>
