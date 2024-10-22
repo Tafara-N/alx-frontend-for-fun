@@ -56,7 +56,7 @@ Improve `markdown2html.py` by parsing Headings Markdown syntax for generating HT
 **Syntax:** (you can assume it will be strictly this syntax)
 
 **Markdown**             | **HTML generated**
--------------------------|---------------------------
+-------------------------|-----------------------------
 `# Heading level 1`      | `<h1> Heading level 1 </h1>`
 `## Heading level 2`     | `<h2> Heading level 1 </h2>`
 `### Heading level 3`    | `<h3> Heading level 1 </h3>`
@@ -246,14 +246,16 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 ### 5. Bold and emphasis text
 
-#advanced
-Improve markdown2html.py by parsing bold syntax for generating HTML:
+Improve `markdown2html.py` by parsing bold syntax for generating HTML:
 
-Syntax: (you can assume it will be strictly this syntax)
+**Syntax:** (you can assume it will be strictly this syntax)
 
-Markdown	HTML generated
-**Hello**	<b>Hello</b>
-__Hello__	<em>Hello</em>
+**Markdown** | **HTML generated**
+-------------|-------------------
+`**Hello**`  | `<b>Hello</b>`
+`__Hello__`  | `<em>Hello</em>`
+
+```bash
 guillaume@vagrant:~/$ cat README.md
 # My title
 - He**l**lo
