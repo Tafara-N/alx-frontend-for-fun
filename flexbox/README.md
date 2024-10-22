@@ -70,7 +70,7 @@ Select all correct answers
 
 What’s the “flex” equivalent of:
 
-1	2
+![Question 1](images/image_1.png)
 
 - [ ] flex-direction: column
 
