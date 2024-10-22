@@ -15,7 +15,7 @@
 - [HTML forms - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 - [form - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 - [fieldset: The Field Set element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
-- [legend - HTML: Hypertext Markup Language | MDN]()
+- [legend - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 - [label - HTML: Hypertext Markup Language | MDN]()
 - [input: The Input (Form Input) element - HTML: Hypertext Markup Language | MDN]()
 - [tabindex - HTML: Hypertext Markup Language | MDN]()
