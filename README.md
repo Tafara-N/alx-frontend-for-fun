@@ -47,7 +47,8 @@ guillaume@vagrant:~/$
 
 Repo:
 GitHub repository: alx-frontend-for-fun
-File: markdown2html.py
+File: `markdown2html.py`
+
 1. Headings
 #advanced
 Improve markdown2html.py by parsing Headings Markdown syntax for generating HTML:
