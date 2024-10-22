@@ -541,25 +541,20 @@ Which of these CSS attributes are part of the “Flex container”?
 
 Select all correct answers
 
-
 align-items
-
 
 align-self
 
-
 order
-
 
 flex-wrap
 
-
 flex
-
 
 justify-content
 
-Question #1
+### Question #1
+
 What’s the “flex” equivalent of:
 
 1	2
