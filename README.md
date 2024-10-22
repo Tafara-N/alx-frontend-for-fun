@@ -46,7 +46,7 @@ guillaume@vagrant:~/$
 ```
 
 Repo:
-GitHub repository: alx-frontend-for-fun
+- GitHub repository: `alx-frontend-for-fun`
 File: `markdown2html.py`
 
 1. Headings
@@ -81,7 +81,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 Repo:
 
-GitHub repository: alx-frontend-for-fun
+- GitHub repository: `alx-frontend-for-fun`
 File: markdown2html.py
 2. Unordered listing
 #advanced
@@ -116,7 +116,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 Repo:
 
-GitHub repository: alx-frontend-for-fun
+- GitHub repository: `alx-frontend-for-fun`
 File: markdown2html.py
 3. Ordered listing
 #advanced
@@ -151,7 +151,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 Repo:
 
-GitHub repository: alx-frontend-for-fun
+- GitHub repository: `alx-frontend-for-fun`
 File: markdown2html.py
 4. Simple text
 #advanced
@@ -205,7 +205,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 Repo:
 
-GitHub repository: alx-frontend-for-fun
+- GitHub repository: `alx-frontend-for-fun`
 File: markdown2html.py
 5. Bold and emphasis text
 #advanced
@@ -251,7 +251,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 Repo:
 
-GitHub repository: alx-frontend-for-fun
+- GitHub repository: `alx-frontend-for-fun`
 File: markdown2html.py
 6. ... but why??
 #advanced
@@ -308,5 +308,5 @@ guillaume@vagrant:~/$
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
 Repo:
-GitHub repository: alx-frontend-for-fun
+- GitHub repository: `alx-frontend-for-fun`
 File: `markdown2html.py`
