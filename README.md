@@ -298,7 +298,8 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 **Repo:**
 
 - GitHub repository: `alx-frontend-for-fun`
-- File: markdown2html.py
+- File: `markdown2html.py`
+
 6. ... but why??
 #advanced
 Improve markdown2html.py by parsing bold syntax for generating HTML:
