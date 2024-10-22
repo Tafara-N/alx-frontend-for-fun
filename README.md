@@ -47,7 +47,7 @@ guillaume@vagrant:~/$
 
 Repo:
 - GitHub repository: `alx-frontend-for-fun`
-File: `markdown2html.py`
+- File: `markdown2html.py`
 
 1. Headings
 #advanced
@@ -82,7 +82,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 Repo:
 
 - GitHub repository: `alx-frontend-for-fun`
-File: markdown2html.py
+- File: markdown2html.py
 2. Unordered listing
 #advanced
 Improve markdown2html.py by parsing Unordered listing syntax for generating HTML:
@@ -117,7 +117,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 Repo:
 
 - GitHub repository: `alx-frontend-for-fun`
-File: markdown2html.py
+- File: markdown2html.py
 3. Ordered listing
 #advanced
 Improve markdown2html.py by parsing Ordered listing syntax for generating HTML:
@@ -152,7 +152,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 Repo:
 
 - GitHub repository: `alx-frontend-for-fun`
-File: markdown2html.py
+- File: markdown2html.py
 4. Simple text
 #advanced
 Improve markdown2html.py by parsing paragraph syntax for generating HTML:
@@ -206,7 +206,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 Repo:
 
 - GitHub repository: `alx-frontend-for-fun`
-File: markdown2html.py
+- File: markdown2html.py
 5. Bold and emphasis text
 #advanced
 Improve markdown2html.py by parsing bold syntax for generating HTML:
@@ -252,7 +252,7 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 Repo:
 
 - GitHub repository: `alx-frontend-for-fun`
-File: markdown2html.py
+- File: markdown2html.py
 6. ... but why??
 #advanced
 Improve markdown2html.py by parsing bold syntax for generating HTML:
@@ -309,4 +309,4 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 Repo:
 - GitHub repository: `alx-frontend-for-fun`
-File: `markdown2html.py`
+- File: `markdown2html.py`
