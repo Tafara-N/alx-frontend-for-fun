@@ -22,14 +22,14 @@
 - [accesskey - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)
 - [button: The Button element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
 - [select - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
-- [optgroup - HTML: Hypertext Markup Language | MDN]()
-- [datalist - HTML: Hypertext Markup Language | MDN]()
-- [textarea - HTML: Hypertext Markup Language | MDN]()
-- [Form Validation UX in HTML and CSS | CSS-Tricks]()
-- [Constraint validation - Developer guides | MDN]()
-- [:invalid - CSS: Cascading Style Sheets | MDN]()
-- [:valid - CSS: Cascading Style Sheets | MDN]()
-- [:optional - CSS: Cascading Style Sheets | MDN]()
+- [optgroup - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup)
+- [datalist - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
+- [textarea - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
+- [Form Validation UX in HTML and CSS | CSS-Tricks](https://css-tricks.com/form-validation-ux-html-css/)
+- [Constraint validation - Developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation)
+- [:invalid - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:invalid)
+- [:valid - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
+- [:optional - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:optional)
 
 # Learning objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
