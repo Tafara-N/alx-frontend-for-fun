@@ -242,8 +242,10 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 **Repo:**
 - GitHub repository: `alx-frontend-for-fun`
-- File: markdown2html.py
-5. Bold and emphasis text
+- File: `markdown2html.py`
+
+### 5. Bold and emphasis text
+
 #advanced
 Improve markdown2html.py by parsing bold syntax for generating HTML:
 
