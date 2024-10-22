@@ -6,14 +6,14 @@
 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
-- [Flexbox Defense]()
-- [Flexbox Cheatsheet]()
-- [CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN]()
-- [afonsopacifer/awesome-flexbox: A curated list of CSS Flexible Box Layout Module or only Flexbox.]()
-- [Build with Flexbox]()
-- [Flexplorer]()
-- [CSS Flexible Box Layout Module Level 1]()
-- [FLEX: A simple visual cheatsheet for flexbox]()
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+- [CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout)
+- [afonsopacifer/awesome-flexbox: A curated list of CSS Flexible Box Layout Module or only Flexbox.](https://github.com/afonsopacifer/awesome-flexbox)
+- [Build with Flexbox](https://flexbox.buildwithreact.com/)
+- [Flexplorer](https://bennettfeely.com/flexplorer/)
+- [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/#flex)
+- [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
