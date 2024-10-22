@@ -110,6 +110,7 @@ Improve `markdown2html.py` by parsing Unordered listing syntax for generating HT
 </ul>
 ```
 
+```bash
 guillaume@vagrant:~/$ cat README.md
 # My title
 - Hello
@@ -123,6 +124,8 @@ guillaume@vagrant:~/$ cat README.html
 <li>Bye</li>
 </ul>
 guillaume@vagrant:~/$
+```
+
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
 **Repo:**
