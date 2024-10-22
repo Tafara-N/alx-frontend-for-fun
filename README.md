@@ -17,11 +17,11 @@ It’s time to code a Markdown to HTML!
 ## Tasks
 
 ### 0. Start a script
-#advanced
-Write a script markdown2html.py that takes an argument 2 strings:
 
-First argument is the name of the Markdown file
-Second argument is the output file name
+Write a script `markdown2html.py` that takes an argument 2 strings:
+
+- First argument is the name of the Markdown file
+- Second argument is the output file name
 Requirements:
 
 If the number of arguments is less than 2: print in STDERR Usage: ./markdown2html.py README.md README.html and exit 1
