@@ -125,22 +125,19 @@ Container: flex-direction: row / last item: flex-grow: 1
 
 Container: flex-direction: row + flex-wrap: wrap / last item: flex-grow: 1
 
-Question #5
+### Question #5
+
 What’s the “flex” equivalent of:
 
-1	2
-3
+![Question 5](images/image_4.png)
 
-Container: flex-direction: row + flex-wrap: nowrap + justify-content: flex-end
+- [ ] Container: `flex-direction: row` + `flex-wrap: nowrap + `justify-content: flex-end`
 
+- [ ] Container: `flex-direction: row` + `flex-wrap: wrap` + `justify-content: flex-end`
 
-Container: flex-direction: row + flex-wrap: wrap + justify-content: flex-end
+- [ ] Container: `flex-direction: row` + `flex-wrap: wrap` + `justify-content: flex-start`
 
-
-Container: flex-direction: row + flex-wrap: wrap + justify-content: flex-start
-
-
-Container: flex-direction: column + flex-wrap: wrap + justify-content: flex-end
+- [ ] Container: `flex-direction: column` + `flex-wrap: wrap` + `justify-content: flex-end`
 
 ### Question #6
 
@@ -150,8 +147,8 @@ What’s the “flex” equivalent of:
 
 - [ ] Container: `flex-direction: column` + `justify-content: center`
 
-- [ ] Container: ``flex-direction: row` + `flex-wrap: nowrap`
+- [ ] Container: `flex-direction: row` + `flex-wrap: nowrap`
 
-- [ ] Container: ``flex-direction: row` + `flex-wrap: wrap`
+- [ ] Container: `flex-direction: row` + `flex-wrap: wrap`
 
-- [ ] Container: ``flex-direction: row` / `last item: flex-grow: 2`
+- [ ] Container: `flex-direction: row` / `last item: flex-grow: 2`
