@@ -119,6 +119,7 @@ guillaume@vagrant:~/$ cat README.md
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
 <h1> My title </h1>
+
   <ul>
     <li> Hello </li>
     <li> Bye </li>
@@ -163,6 +164,7 @@ guillaume@vagrant:~/$ cat README.md
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
 <h1> My title </h1>
+
   <ol>
     <li> Hello </li>
     <li> Bye </li>
@@ -218,6 +220,7 @@ with 2 lines
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
 <h1> My title </h1>
+
   <ul>
     <li>Hello</li>
     <li>Bye</li>
