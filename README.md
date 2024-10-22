@@ -217,24 +217,27 @@ with 2 lines
 
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
-<h1>My title</h1>
-<ul>
-<li>Hello</li>
-<li>Bye</li>
-</ul>
+<h1> My title </h1>
+  <ul>
+    <li>Hello</li>
+    <li>Bye</li>
+  </ul>
+
 <p>
-Hello
+  Hello
 </p>
+
 <p>
-I'm a text
+  I'm a text
 <br/>
-with 2 lines
+  with 2 lines
 </p>
 guillaume@vagrant:~/$
+```
+
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
 **Repo:**
-
 - GitHub repository: `alx-frontend-for-fun`
 - File: markdown2html.py
 5. Bold and emphasis text
