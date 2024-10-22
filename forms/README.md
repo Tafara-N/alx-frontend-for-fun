@@ -26,8 +26,9 @@ Constraint validation - Developer guides | MDN
 :invalid - CSS: Cascading Style Sheets | MDN
 :valid - CSS: Cascading Style Sheets | MDN
 :optional - CSS: Cascading Style Sheets | MDN
-Learning objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+# Learning objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 How to create an HTML5 form
 How to choose the right input type
