@@ -94,16 +94,22 @@ Improve `markdown2html.py` by parsing Unordered listing syntax for generating HT
 
 **Syntax:** (you can assume it will be strictly this syntax)
 
-Markdown:
+**Markdown:**
 
+```markdown
 - Hello
 - Bye
-HTML generated:
+```
 
+**HTML generated:**
+
+```html
 <ul>
     <li>Hello</li>
     <li>Bye</li>
 </ul>
+```
+
 guillaume@vagrant:~/$ cat README.md
 # My title
 - Hello
