@@ -108,22 +108,19 @@ flex-direction: column
 
 flex-direction: row
 
-Question #4
+### Question #4
+
 What’s the “flex” equivalent of:
 
-1	2
-3
+![Question 4](images/image_3.png)
 
-Container: flex-direction: row + flex-wrap: wrap / last item: flex-grow: 0
+- [ ] Container: `flex-direction: row` + `flex-wrap: wrap` / last item: `flex-grow: 0`
 
+- [ ] Container: `flex-direction: column` + `flex-wrap: wrap`
 
-Container: flex-direction: column + flex-wrap: wrap
+- [ ] Container: `flex-direction: row` / last item: `flex-grow: 1`
 
-
-Container: flex-direction: row / last item: flex-grow: 1
-
-
-Container: flex-direction: row + flex-wrap: wrap / last item: flex-grow: 1
+- [ ] Container: `flex-direction: row` + `flex-wrap: wrap` / last item: `flex-grow: 1`
 
 ### Question #5
 
