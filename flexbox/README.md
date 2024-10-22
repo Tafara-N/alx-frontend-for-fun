@@ -131,7 +131,7 @@ What’s the “flex” equivalent of:
 
 ![Question 5](images/image_4.png)
 
-- [ ] Container: `flex-direction: row` + `flex-wrap: nowrap + `justify-content: flex-end`
+- [ ] Container: `flex-direction: row` + `flex-wrap: nowrap` + justify-content: flex-end`
 
 - [ ] Container: `flex-direction: row` + `flex-wrap: wrap` + `justify-content: flex-end`
 
@@ -151,4 +151,4 @@ What’s the “flex” equivalent of:
 
 - [ ] Container: `flex-direction: row` + `flex-wrap: wrap`
 
-- [ ] Container: `flex-direction: row` / `last item: flex-grow: 2`
+- [ ] Container: `flex-direction: row` / last item: `flex-grow: 2`
