@@ -85,7 +85,8 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 
 **Repo:**
 - GitHub repository: `alx-frontend-for-fun`
-- File: markdown2html.py
+- File: `markdown2html.py`
+
 2. Unordered listing
 #advanced
 Improve markdown2html.py by parsing Unordered listing syntax for generating HTML:
