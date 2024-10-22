@@ -148,10 +148,10 @@ What’s the “flex” equivalent of:
 
 ![Question 6](images/image_5.png)
 
-- [ ] Container: flex-direction: column + justify-content: center
+- [ ] Container: `flex-direction: column` + `justify-content: center`
 
-- [ ] Container: flex-direction: row + flex-wrap: nowrap
+- [ ] Container: ``flex-direction: row` + `flex-wrap: nowrap`
 
-- [ ] Container: flex-direction: row + flex-wrap: wrap
+- [ ] Container: ``flex-direction: row` + `flex-wrap: wrap`
 
-- [ ] Container: flex-direction: row / last item: flex-grow: 2
+- [ ] Container: ``flex-direction: row` / `last item: flex-grow: 2`
