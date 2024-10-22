@@ -40,21 +40,21 @@ Requirements
 Allowed editors: vi, vim, emacs
 A README.md at the root of the project directory is mandatory
 HTML and CSS have been rendered on Chrome 78 or more.
-Quiz questions
-Question #0
-Which attribute can be added to an <input> to make it mandatory in the form?
+
+## Quiz questions
+
+### Question #0
+
+Which attribute can be added to an `<input>` to make it mandatory in the form?
 
 
-onClick
+- [ ] `onClick`
 
+- [ ] `mandatory`
 
-mandatory
+- [ ] `enable`
 
-
-enable
-
-
-required
+- [ ] `required`
 
 ### Question #1
 
