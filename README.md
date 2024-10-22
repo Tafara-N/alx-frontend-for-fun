@@ -176,20 +176,24 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 - GitHub repository: `alx-frontend-for-fun`
 - File: `markdown2html.py`
 
-4. Simple text
-#advanced
-Improve markdown2html.py by parsing paragraph syntax for generating HTML:
+### 4. Simple text
 
-Syntax: (you can assume it will be strictly this syntax)
+Improve `markdown2html.py` by parsing paragraph syntax for generating HTML:
 
-Markdown:
+**Syntax:** (you can assume it will be strictly this syntax)
 
+**Markdown:**
+
+```markdown
 Hello
 
 I'm a text
 with 2 lines
-HTML generated:
+```
 
+**HTML generated:**
+
+```html
 <p>
     Hello
 </p>
@@ -198,6 +202,9 @@ HTML generated:
         <br />
     with 2 lines
 </p>
+```
+
+```bash
 guillaume@vagrant:~/$ cat README.md
 # My title
 - Hello
