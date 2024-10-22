@@ -306,7 +306,12 @@ Improve `markdown2html.py` by parsing bold syntax for generating HTML:
 
 **Syntax:** (you can assume it will be strictly this syntax)
 
-Markdown	HTML generated	description
+**Markdown**        | **HTML generated**                 | **description**
+--------------------|------------------------------------|---------------------------------------------------
+`[[Hello]]`         | `8b1a9953c4611296a827abf8c47804d7` | convert in MD5 (lowercase) the content
+`((Hello Chicago))` | `Hello hiago`                      | remove all `c` (case insensitive) from the content
+
+```bash
 [[Hello]]	8b1a9953c4611296a827abf8c47804d7	convert in MD5 (lowercase) the content
 ((Hello Chicago))	Hello hiago	remove all c (case insensitive) from the content
 guillaume@vagrant:~/$ cat README.md
