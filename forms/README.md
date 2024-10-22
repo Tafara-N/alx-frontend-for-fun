@@ -75,8 +75,9 @@ To extend the “click zone” and toggle the <input id="online">
 
 To set a default value to the checkbox
 
-Question #2
-Which pseudo-class can be define to change the style of an <input> when the validation failed?
+### Question #2
+
+Which pseudo-class can be define to change the style of an `<input>` when the validation failed?
 
 
 - [ ] `:no`
