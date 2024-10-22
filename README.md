@@ -13,7 +13,8 @@ Your code should use the `PEP 8` style (version `1.7.*`)
 All your files must be executable
 All your modules should be documented: `python3 -c 'print(__import__("my_module").__doc__)'`
 Your code should not be executed when imported (by using `if __name__ == "__main__":`)
-Tasks
+
+## Tasks
 0. Start a script
 #advanced
 Write a script markdown2html.py that takes an argument 2 strings:
