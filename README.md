@@ -252,8 +252,8 @@ Improve `markdown2html.py` by parsing bold syntax for generating HTML:
 
 **Markdown** | **HTML generated**
 -------------|-------------------
-`**Hello**`  | `<b>Hello</b>`
-`__Hello__`  | `<em>Hello</em>`
+`**Hello**`  | `<b> Hello </b>`
+`__Hello__`  | `<em> Hello </em>`
 
 ```bash
 guillaume@vagrant:~/$ cat README.md
