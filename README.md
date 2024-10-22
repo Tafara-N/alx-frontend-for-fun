@@ -300,11 +300,11 @@ Spacing and new lines between HTML tags don’t need to be exactly this one
 - GitHub repository: `alx-frontend-for-fun`
 - File: `markdown2html.py`
 
-6. ... but why??
-#advanced
-Improve markdown2html.py by parsing bold syntax for generating HTML:
+### 6. ... but why??
 
-Syntax: (you can assume it will be strictly this syntax)
+Improve `markdown2html.py` by parsing bold syntax for generating HTML:
+
+**Syntax:** (you can assume it will be strictly this syntax)
 
 Markdown	HTML generated	description
 [[Hello]]	8b1a9953c4611296a827abf8c47804d7	convert in MD5 (lowercase) the content
