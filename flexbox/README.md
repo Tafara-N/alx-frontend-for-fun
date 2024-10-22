@@ -1,6 +1,8 @@
+![I just broke the whole site](flexbox_meme.jpg)
 
-Resources
-Read or watch:
+# Resources
+
+**Read or watch:**
 
 A Complete Guide to Flexbox | CSS-Tricks
 Flexbox Froggy - A game for learning CSS flexbox
