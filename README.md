@@ -12,7 +12,7 @@ A `README.md` file, at the root of the folder of the project, is mandatory
 Your code should use the `PEP 8` style (version `1.7.*`)
 All your files must be executable
 All your modules should be documented: `python3 -c 'print(__import__("my_module").__doc__)'`
-Your code should not be executed when imported (by using if __name__ == "__main__":)
+Your code should not be executed when imported (by using `if __name__ == "__main__":`)
 Tasks
 0. Start a script
 #advanced
