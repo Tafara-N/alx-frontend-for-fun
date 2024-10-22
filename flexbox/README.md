@@ -97,16 +97,15 @@ flex-direction
 
 flex-shrink
 
-Question #3
+### Question #3
+
 What’s the “flex” equivalent of:
 
-1
-2
+![Question 3](images/image_2.png)
 
-flex-direction: column
+- [ ] flex-direction: column
 
-
-flex-direction: row
+- [ ] flex-direction: row
 
 ### Question #4
 
