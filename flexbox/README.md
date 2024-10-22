@@ -4,8 +4,8 @@
 
 **Read or watch:**
 
-- [A Complete Guide to Flexbox | CSS-Tricks]()
-- [Flexbox Froggy - A game for learning CSS flexbox]()
+- [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 - [Flexbox Defense]()
 - [Flexbox Cheatsheet]()
 - [CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN]()
