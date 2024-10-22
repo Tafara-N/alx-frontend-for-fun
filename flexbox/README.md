@@ -38,7 +38,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 Download the images linked in the `CSS Advanced` project and place them into an images directory at the root of the project.
 
-- [`HTML starter file`]()
+- [`HTML starter file`](index.html)
 
 - [`CSS starter file`](index.css)
 
