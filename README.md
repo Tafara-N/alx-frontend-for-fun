@@ -271,22 +271,28 @@ with __2 lines__
 guillaume@vagrant:~/$ ./markdown2html.py README.md README.html
 guillaume@vagrant:~/$ cat README.html
 <h1>My title</h1>
+
 <ul>
-<li>He<b>l</b>lo</li>
-<li>Bye</li>
+  <li> He<b>l</b>lo </li>
+  <li> Bye </li>
 </ul>
+
 <p>
-Hello
+  Hello
 </p>
+
 <p>
-I'm <b>a</b> text
+  I'm <b>a</b> text
 <br/>
-with <em>2 lines</em>
+  with <em>2 lines</em>
 </p>
+
 <p>
-<b>Or in bold</b>
+ <b> Or in bold </b>
 </p>
 guillaume@vagrant:~/$
+```
+
 Spacing and new lines between HTML tags don’t need to be exactly this one
 
 **Repo:**
