@@ -14,8 +14,9 @@ Build with Flexbox
 Flexplorer
 CSS Flexible Box Layout Module Level 1
 FLEX: A simple visual cheatsheet for flexbox
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 What is Flexbox?
 How to convert float positioning to a flex display
