@@ -559,12 +559,12 @@ What’s the “flex” equivalent of:
 
 1	2
 
-flex-direction: column
+- [ ] flex-direction: column
 
+- [ ] flex-direction: row
 
-flex-direction: row
+### Question #2
 
-Question #2
 Which of these CSS attributes are part of the “Flex items”?
 
 Select all correct answers
