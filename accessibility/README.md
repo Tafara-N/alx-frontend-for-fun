@@ -24,8 +24,9 @@ Accessibility Blog | Deque Systems
 Tink - Léonie Watson – On technology, food & life in the digital age
 Accessibility Weekly
 Section508.gov | GSA Government-wide IT Accessibility Program
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ARIA’s main purpose
 WCAG conformance levels (A, AA and AAA)
