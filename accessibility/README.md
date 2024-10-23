@@ -1,11 +1,14 @@
-Concepts
-For this project, we expect you to look at this concept:
+# Concepts
 
-A Crash Course on Accessibility
+*For this project, we expect you to look at this concept:*
 
+- [A Crash Course on Accessibility](https://intranet.alxswe.com/concepts/549)
 
-Resources
-Read or watch:
+![One does not simply ignore accessibility](accessibility.png)
+
+# Resources
+
+**Read or watch:**
 
 Accessibility is not a feature. — Ethan Marcotte
 How to Meet WCAG (Quickref Reference
@@ -32,137 +35,115 @@ Requirements
 Allowed editors: vi, vim, emacs
 A README.md at the root of the project directory is mandatory
 HTML and CSS have been rendered on Chrome 78 or more.
-Quiz questions
-Question #0
+
+## Quiz questions
+
+### Question #0
+
 What is the correct language code for Portuguese?
 
 (select all valid answers)
 
+- [ ] lang=“pt-br”
 
-lang=“pt-br”
+- [ ] lang=“portuguese”
 
+- [ ] lang=“portugues”
 
-lang=“portuguese”
+- [ ] lang=“pt”
 
+- [ ] lang=“port”
 
-lang=“portugues”
+### Question #1
 
-
-lang=“pt”
-
-
-lang=“port”
-
-Question #1
 Where should be the lang attribute
 
+- [ ] In the `<!doctype>` element
 
-In the <!doctype> element
+- [ ] In the `<body>` element
 
+- [ ] In the `html` element
 
-In the <body> element
+### Question #2
 
+- [ ] Accessibility level: live video has captions
 
-In the html element
+- [ ] level A
 
-Question #2
-Accessibility level: live video has captions
+- [ ] level AA
 
+- [ ] level AAA
 
-level A
+### Question #3
 
-
-level AA
-
-
-level AAA
-
-Question #3
 Accessibility level: explain any unusual word
 
+- [ ] level A
 
-level A
+- [ ] level AA
 
+- [ ] level AAA
 
-level AA
+### Question #4
 
-
-level AAA
-
-Question #4
 Accessibility level: provide descriptive link text
 
+- [ ] level A
 
-level A
+- [ ] level AA
 
+- [ ] level AAA
 
-level AA
+### Question #5
 
-
-level AAA
-
-Question #5
 All of the following are true about skip links except
 
+- [ ] Must be accessible to screen reader users
 
-Must be accessible to screen reader users
+- [ ] Must be placed just before the main navigation menu
 
+- [ ] Must become visible upon receiving focus, if hidden
 
-Must be placed just before the main navigation menu
+- [ ] Must be accessible to keyboard-only users
 
+### Question #6
 
-Must become visible upon receiving focus, if hidden
-
-
-Must be accessible to keyboard-only users
-
-Question #6
 Accessibility level: provide ability to skip content
 
+- [ ] level A
 
-level A
+- [ ] level AA
 
+- [ ] level AAA
 
-level AA
+### Question #7
 
-
-level AAA
-
-Question #7
 Accessibility level: no major code error
 
+- [ ] level A
 
-level A
+- [ ] level AA
 
-
-level AA
-
-
-level AAA
+- [ ] level AAA
 
 Question #8
+
 Identifying the language of an HTML page is important for users of:
 
+- [ ] All of the above
 
-All of the above
+- [ ] Voice recognition software
 
+- [ ] Screen readers
 
-Voice recognition software
+- [ ] Screen magnifiers
 
+### Question #9
 
-Screen readers
-
-
-Screen magnifiers
-
-Question #9
 If a person types “paleo recipes” in a site search, which of the following is the best page title?
 
+- [ ] Search
 
-Search
+- [ ] Search results for “paleo recipes”
 
-
-Search results for “paleo recipes”
-
-
-Paleo recipes
+- [ ] Paleo recipes
