@@ -66,7 +66,7 @@ By using this HTML:
 
 Create `1-styles.css` and generate this layout where the underline is hidden by default and appeared slowly…:
 
-
+![Hello Holberton](images/holberton.gif)
 
 You are not allowed to change the HTML
 
