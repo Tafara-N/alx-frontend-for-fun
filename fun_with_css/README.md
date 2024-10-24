@@ -99,8 +99,7 @@ Unchecked:
 
 You are not allowed to change the HTML
 
-Repo:
-
+**Repo:**
 GitHub repository: alx-frontend-for-fun
 File: 2-styles.css
 
