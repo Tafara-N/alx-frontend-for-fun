@@ -100,23 +100,19 @@ Who designed Sass?
 
 - [ ] Guido van Rossum
 
-Question #3
+### Question #3
+
 How to declare variable?
 
+- [ ] `const my_var`
 
-const my_var
+- [ ] `var my_var`
 
+- [ ] `$my_var`
 
-var my_var
+- [ ] `int my_var`
 
-
-$my_var
-
-
-int my_var
-
-
-let my_var
+- [ ] `let my_var`
 
 Question #4
 How to create a “for each” loop?
