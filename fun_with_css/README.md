@@ -43,10 +43,11 @@ You are not allowed to change the image and the HTML - *sprite is cool!*
 - GitHub repository: `alx-frontend-for-fun`
 - File: `0-styles.css`
 
-1. Move the (under)line
-#advanced
+### 1. Move the (under)line
+
 By using this HTML:
 
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -61,16 +62,18 @@ By using this HTML:
         </h2>
     </body>
 </html>
-Create 1-styles.css and generate this layout where the underline is hidden by default and appeared slowly…:
+```
+
+Create `1-styles.css` and generate this layout where the underline is hidden by default and appeared slowly…:
 
 
 
 You are not allowed to change the HTML
 
-Repo:
+**Repo:**
+- GitHub repository: `alx-frontend-for-fun`
+- File: `1-styles.css`
 
-GitHub repository: alx-frontend-for-fun
-File: 1-styles.css
 2. Toggle
 #advanced
 By using this HTML:
