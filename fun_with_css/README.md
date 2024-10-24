@@ -12,6 +12,7 @@ Enjoy!
 
 By using this HTML:
 
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
