@@ -100,8 +100,8 @@ Unchecked:
 You are not allowed to change the HTML
 
 **Repo:**
-GitHub repository: alx-frontend-for-fun
-File: 2-styles.css
+- GitHub repository: `alx-frontend-for-fun`
+- File: `2-styles.css`
 
 ### 3. Menu
 
