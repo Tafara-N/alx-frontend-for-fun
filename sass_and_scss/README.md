@@ -8,7 +8,7 @@
 - [Sass flow control directives: @if, @for, @each and @while](https://sass-lang.com/documentation/at-rules/control/)
 - [Sass references](https://sass-lang.com/documentation/)
 
-Learning Objectives
+# Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 General
