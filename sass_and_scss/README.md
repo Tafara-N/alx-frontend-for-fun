@@ -64,21 +64,19 @@ Ruby Sass 3.7.4
 
 ![Image](images/image.jpg)
 
-Quiz questions
-Question #0
+## Quiz questions
+
+### Question #0
+
 What Sass means?
 
+- [ ] Simply Awesome StyleSheets
 
-Simply Awesome StyleSheets
+- [ ] Super Awesome StyleSheets
 
+- [ ] Syntactically Augmented StyleSheets
 
-Super Awesome StyleSheets
-
-
-Syntactically Augmented StyleSheets
-
-
-Syntactically Awesome StyleSheets
+- [ ] Syntactically Awesome StyleSheets
 
 Question #1
 How to import a file?
