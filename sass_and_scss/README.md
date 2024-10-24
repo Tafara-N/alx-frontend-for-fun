@@ -126,26 +126,22 @@ How to create a “for each” loop?
 
 - [ ] `@for $my_item each in $my_list`
 
-Question #5
+### Question #5
+
 Does Sass allow function creation?
 
+- [ ] No
 
-No
+- [ ] Yes
 
+### Question #6
 
-Yes
-
-Question #6
 How to create a “while” loop?
 
+- [ ] `@for $i < 10`
 
-@for $i < 10
+- [ ] `@while $i is under 10`
 
+- [ ] `@while $i < 10`
 
-@while $i is under 10
-
-
-@while $i < 10
-
-
-@while $i < 10 then
+- [ ] `@while $i < 10 then`
