@@ -82,13 +82,13 @@ What Sass means?
 
 How to import a file?
 
-- [ ] from my_file import *
+- [ ] `from my_file import *`
 
-- [ ] @import 'my_file';
+- [ ] `@import 'my_file';`
 
-- [ ] @import 'my_file.scss';
+- [ ] `@import 'my_file.scss';`
 
-- [ ] #import 'my_file';
+- [ ] `#import 'my_file';`
 
 Question #2
 Who designed Sass?
