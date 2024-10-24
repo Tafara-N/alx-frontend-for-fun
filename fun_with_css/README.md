@@ -74,10 +74,11 @@ You are not allowed to change the HTML
 - GitHub repository: `alx-frontend-for-fun`
 - File: `1-styles.css`
 
-2. Toggle
-#advanced
+### 2. Toggle
+
 By using this HTML:
 
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
