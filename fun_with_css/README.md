@@ -8,8 +8,8 @@ Enjoy!
 
 ## Tasks
 
-0. Sprite languages
-#advanced
+### 0. Sprite languages
+
 By using this HTML:
 
 <!DOCTYPE html>
