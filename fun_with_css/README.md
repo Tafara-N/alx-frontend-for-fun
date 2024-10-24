@@ -39,10 +39,10 @@ Create `0-styles.css` and generate this layout:
 
 You are not allowed to change the image and the HTML - *sprite is cool!*
 
-Repo:
+**Repo:**
+- GitHub repository: `alx-frontend-for-fun`
+- File: `0-styles.css`
 
-GitHub repository: alx-frontend-for-fun
-File: 0-styles.css
 1. Move the (under)line
 #advanced
 By using this HTML:
