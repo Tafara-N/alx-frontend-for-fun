@@ -29,6 +29,8 @@ By using this HTML:
         </ul>
     </body>
 </html>
+```
+
 And this image file: 0-sprite.png
 
 Create 0-styles.css and generate this layout:
