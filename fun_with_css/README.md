@@ -35,9 +35,9 @@ And this image file: [`0-sprite.png`](images/0-sprite.png)
 
 Create `0-styles.css` and generate this layout:
 
+![Layout](images/layout.png)
 
-
-You are not allowed to change the image and the HTML - sprite is cool!
+You are not allowed to change the image and the HTML - *sprite is cool!*
 
 Repo:
 
