@@ -103,11 +103,11 @@ Create `2-styles.css` and generate this layout where the `<input>` is has this c
 
 **Checked:**
 
-![Checked](checked.png)
+![Checked](images/checked.png)
 
 **Unchecked:**
 
-![Unchecked](unchecked.png)
+![Unchecked](images/unchecked.png)
 
 You are not allowed to change the HTML
 
@@ -152,7 +152,7 @@ By using this HTML:
 
 Create `3-styles.css` and generate this layout/animation:
 
-![Animation](animation.gif)
+![Animation](images/animation.gif)
 
 You are not allowed to change the HTML
 
