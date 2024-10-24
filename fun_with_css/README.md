@@ -87,15 +87,17 @@ By using this HTML:
         </div>
     </body>
 </html>
-Create 2-styles.css and generate this layout where the <input> is has this custom toggle layout:
+```
 
-Checked:
+Create `2-styles.css` and generate this layout where the `<input>` is has this custom toggle layout:
 
+**Checked:**
 
+![Checked](checked.png)
 
-Unchecked:
+**Unchecked:**
 
-
+![Unchecked](unchecked.png)
 
 You are not allowed to change the HTML
 
