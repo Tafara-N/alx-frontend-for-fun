@@ -29,9 +29,12 @@ All your Scss files should have a comment at the beginning (i.e. syntax above)
 All your files should start by a comment describing the task
 A README.md file, at the root of the folder of the project, is mandatory
 The length of your files will be tested using wc
-More Info
-Comments for your Scss file:
-All your Scss file must start with a comment block
+
+# More Info
+
+## Comments for your Scss file:
+
+**All your Scss file must start with a comment block**
 
 ```scss
 $ cat my_styles.scss
