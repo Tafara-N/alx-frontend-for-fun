@@ -135,7 +135,9 @@ By using this HTML:
 
     </body>
 </html>
-Create 3-styles.css and generate this layout/animation:
+```
+
+Create `3-styles.css` and generate this layout/animation:
 
 
 
