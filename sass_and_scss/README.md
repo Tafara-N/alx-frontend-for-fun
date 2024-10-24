@@ -90,17 +90,15 @@ How to import a file?
 
 - [ ] `#import 'my_file';`
 
-Question #2
+### Question #2
+
 Who designed Sass?
 
+- [ ] Natalie Weizenbaum
 
-Natalie Weizenbaum
+- [ ] Hampton Catlin
 
-
-Hampton Catlin
-
-
-Guido van Rossum
+- [ ] Guido van Rossum
 
 Question #3
 How to declare variable?
