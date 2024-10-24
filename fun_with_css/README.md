@@ -31,7 +31,7 @@ By using this HTML:
 </html>
 ```
 
-And this image file: [`0-sprite.png`]()
+And this image file: [`0-sprite.png`](images/0-sprite.png)
 
 Create `0-styles.css` and generate this layout:
 
