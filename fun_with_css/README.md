@@ -6,7 +6,8 @@ Yes, no JavaScript!
 
 Enjoy!
 
-Tasks
+## Tasks
+
 0. Sprite languages
 #advanced
 By using this HTML:
