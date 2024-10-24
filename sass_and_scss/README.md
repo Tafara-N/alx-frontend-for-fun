@@ -33,6 +33,7 @@ More Info
 Comments for your Scss file:
 All your Scss file must start with a comment block
 
+```scss
 $ cat my_styles.scss
 /* My style */
 body {
