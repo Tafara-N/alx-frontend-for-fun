@@ -103,10 +103,12 @@ Repo:
 
 GitHub repository: alx-frontend-for-fun
 File: 2-styles.css
-3. Menu
-#advanced
+
+### 3. Menu
+
 By using this HTML:
 
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -139,7 +141,7 @@ By using this HTML:
 
 Create `3-styles.css` and generate this layout/animation:
 
-
+![Animation](animation.gif)
 
 You are not allowed to change the HTML
 
