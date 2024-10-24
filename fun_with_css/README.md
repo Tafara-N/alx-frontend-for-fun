@@ -142,5 +142,5 @@ Create 3-styles.css and generate this layout/animation:
 You are not allowed to change the HTML
 
 **Repo:**
-GitHub repository: `alx-frontend-for-fun`
-File: `3-styles.css`
+- GitHub repository: `alx-frontend-for-fun`
+- File: `3-styles.css`
