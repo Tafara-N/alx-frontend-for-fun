@@ -118,17 +118,13 @@ How to declare variable?
 
 How to create a “for each” loop?
 
+- [ ] `@each $my_item in $my_list`
 
-@each $my_item in $my_list
+- [ ] `@for $my_item in $my_list`
 
+- [ ] `@foreach $my_item in $my_list`
 
-@for $my_item in $my_list
-
-
-@foreach $my_item in $my_list
-
-
-@for $my_item each in $my_list
+- [ ] `@for $my_item each in $my_list`
 
 Question #5
 Does Sass allow function creation?
