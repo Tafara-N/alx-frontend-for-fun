@@ -1,11 +1,13 @@
 ![Sass](images/sass.jpg)
 
-Resources
-Read or watch:
+# Resources
 
-Sass Basics
-Sass flow control directives: @if, @for, @each and @while
-Sass references
+**Read or watch:**
+
+- [Sass Basics](https://sass-lang.com/guide/)
+- [Sass flow control directives: @if, @for, @each and @while]()
+- [Sass references]()
+
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
